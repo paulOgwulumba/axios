@@ -1,0 +1,6 @@
+product_name	
+product_description	
+product_varieties	
+date_uploaded	
+date_edited	
+product_key
